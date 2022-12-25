@@ -48,6 +48,7 @@ A curated list of awesome frontend development resources
 
 ## Audio
 - [Tone.js](https://github.com/Tonejs/Tone.js/) - A Web Audio framework for making interactive music in the browser.
+- [Howler JS](https://github.com/goldfire/howler.js/) - Javascript audio library for the modern web.
 
 ## Awesome
 - [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
@@ -170,6 +171,7 @@ A curated list of awesome frontend development resources
 ## Date
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript.
 - [moment-timezone](https://github.com/moment/moment-timezone/) - Timezone support for moment.js.
+- [dayjs](https://github.com/iamkun/dayjs/) - Library alternative to Moment.js with the same modern API
 
 ## Debugging
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools.
